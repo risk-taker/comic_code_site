@@ -1,0 +1,22 @@
+.button {
+    font-size: x-large;
+    background: #D7DDE0;
+    color: #707070;
+    padding: 0.3rem;
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button_text {
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: lighter;
+}
+
+.button:hover {
+    background: #bbc2c5;
+}

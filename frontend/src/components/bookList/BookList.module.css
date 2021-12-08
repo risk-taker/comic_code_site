@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    /* margin-top: 2rem; */
+    background-color: #51A7CA;
+    color: #FFFFFF;
+    outline: none;
+    border: none;
+    border-radius: 24px;
+    padding: 9px 18px;
+}

@@ -1,0 +1,48 @@
+.cardwrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6rem;
+}
+
+.buttonwrap {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 5px;
+}
+
+.tabbutton {
+    width: 60px;
+    height: 60px;
+    background: #F0F0F0;
+    border: none;
+    outline: none;
+    border-radius: 0 10px;
+    cursor: pointer;
+    /* margin-bottom: 0rem; */
+}
+
+.tabbutton:last-child {
+    margin-left: .5rem;
+}
+
+.active {
+    background-color: #51A7CA;
+}
+
+.input {
+    outline: none;
+    border: none;
+    padding: 0.5rem;
+    margin-left: 0.5rem;
+    border-radius: 0.5rem;
+    font-size: larger;
+    color: #707070;
+}
+
+.button_center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4rem;
+}
